@@ -1,0 +1,301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"highes",
+				"highestScoringUnicorn	GameObject"
+			],
+			[
+				"hi",
+				"highestScoringUnicorn	GameObject"
+			],
+			[
+				"Rigid",
+				"Rigidbody2D	Rigidbody2D"
+			],
+			[
+				"GetCom",
+				"GetComponent<T>()	T"
+			],
+			[
+				"Ri",
+				"Rigidbody2D	Rigidbody2D"
+			],
+			[
+				"r",
+				"rigidbody2D	Component { get; }"
+			],
+			[
+				"getke",
+				"GetKeyDown(string name)	bool"
+			],
+			[
+				"Game",
+				"GameObject	GameObject"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 539.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jameydeorio/dev/unity/fangshwoh/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/Users/jameydeorio/dev/unity/fangshwoh/fangshwoh.sublime-project",
+		"/Users/jameydeorio/dev/unity/fangshwoh/Assets/Scripts/PlayerController.cs",
+		"/Users/jameydeorio/Library/Application Support/Sublime Text 3/Packages/User/C#.sublime-settings",
+		"/Users/jameydeorio/dev/sf/heron/install.sh",
+		"/Users/jameydeorio/dev/sf/heron/fabfile.py",
+		"/Users/jameydeorio/heron.sublime-project",
+		"/Users/jameydeorio/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jameydeorio/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jameydeorio/dev/unity/unitoss/unitoss.sln",
+		"/Users/jameydeorio/dev/unity/unitoss/Assets/Scripts/GameController.cs",
+		"/Users/jameydeorio/dev/unity/unitoss/Assets/Scripts/RingController.cs",
+		"/Users/jameydeorio/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/jameydeorio/dev/unity/unitoss/unicross.sublime-project",
+		"/Users/jameydeorio/dev/unity/unitoss/Assets/Scripts/UnicornController.cs",
+		"/Users/jameydeorio/dev/unity/unitoss/Assets/Scripts/PlayerController.cs",
+		"/Users/jameydeorio/dev/unity/unitoss/Assets/Scripts/UnicornHornController.cs",
+		"/Users/jameydeorio/dev/unity/unitoss/Assets/Scripts/Title/TitleScreenController.cs",
+		"/Users/jameydeorio/dev/unity/unitoss/Assets/Scripts/HornController.cs",
+		"/Users/jameydeorio/dev/unity/unitoss/Assets/Scripts/Title/TitleUnicornSpawner.cs",
+		"/Users/jameydeorio/dev/unity/unitoss/Assets/Scripts/RingMountainScript.cs",
+		"/Users/jameydeorio/dev/unity/unitoss/Assets/Scripts/UnicornSpawner.cs",
+		"/Users/jameydeorio/Library/Application Support/Sublime Text 3/Packages/OmniSharp/PrebuiltOmniSharpServer/config.json",
+		"/Users/jameydeorio/dev/unity/unitoss/Assets/Scripts/TitleScreenController.cs",
+		"/Users/jameydeorio/dev/sf/owl/vagrant/Vagrantfile"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"project",
+			"open",
+			"FixedAngle",
+			"angle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "fangshwoh.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"provi",
+				"salesforce/provisioning.py"
+			],
+			[
+				"game",
+				"Assets/Scripts/GameController.cs"
+			],
+			[
+				"gamecon",
+				"Assets/Scripts/GameController.cs"
+			],
+			[
+				"unicoc",
+				"Assets/Scripts/UnicornController.cs"
+			],
+			[
+				"playercon",
+				"Assets/Scripts/PlayerController.cs"
+			],
+			[
+				"gamecont",
+				"Assets/Scripts/GameController.cs"
+			],
+			[
+				"gamecontr",
+				"Assets/Scripts/GameController.cs"
+			],
+			[
+				"ringcon",
+				"Assets/Scripts/RingController.cs"
+			],
+			[
+				"titleuni",
+				"Assets/Scripts/Title/TitleUnicornSpawner.cs"
+			],
+			[
+				"moun",
+				"RingMountainScript.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
