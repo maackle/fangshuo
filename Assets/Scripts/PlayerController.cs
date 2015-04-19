@@ -3,7 +3,7 @@ using System.Collections;
 
 public class PlayerController : MonoBehaviour {
     public float speed;
-    public float turnDampening = 0.1f;
+    public float turnDampening = 0.15f;
 
     private Vector2 targetDirection;
     private float forwardAngle = -90f;
